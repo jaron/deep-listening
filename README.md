@@ -26,3 +26,7 @@ This project consists of several Jupyter notebooks that implement deep learning 
 #### 4-us8k-cnn-salamon.ipynb
 
 * this notebook implements an alternative CNN, similar to one described by [Salamon and Bello](https://arxiv.org/pdf/1608.04363.pdf) 
+
+--- 
+
+Do get in touch if you've any questions, (me @ jaroncollis . com)
