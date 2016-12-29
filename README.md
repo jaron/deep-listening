@@ -29,7 +29,7 @@ This project consists of several Jupyter notebooks that implement deep learning 
 
 #### 5-ffbird-cnn.ipynb
 
-* this notebook uses the Salamon and Bello CNN to process the FreeField1010 data set of field recordings, with the goal of  recognising the presence of birdsong. 
+* this notebook uses the Salamon and Bello CNN to process the [FreeField1010](http://machine-listening.eecs.qmul.ac.uk/bird-audio-detection-challenge/) data set of field recordings, with the goal of  recognising the presence of birdsong. 
 * the data set is not part of this repository, so if you want to run this code you'll need to download the data yourself (see instructions in the notebook) 
 
 --- 
