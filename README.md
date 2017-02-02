@@ -2,7 +2,12 @@
 
 _Deep learning experiments for audio classification_
 
+A full write-up, including technical explanations and design decisions, as well as a summary of results achieved can be found within the associated [Project Report](https://github.com/jaron/deep-listening/blob/master/ProjectReport.pdf).
+
+---
+
 This project consists of several Jupyter notebooks that implement deep learning audio classifiers.
+
 
 #### 1-us8k-ffn-extract-explore.ipynb 
 
