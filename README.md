@@ -37,6 +37,10 @@ This project consists of several Jupyter notebooks that implement deep learning 
 * this notebook uses the Salamon and Bello CNN to process the [FreeField1010](http://machine-listening.eecs.qmul.ac.uk/bird-audio-detection-challenge/) data set of field recordings, with the goal of  recognising the presence of birdsong. 
 * the data set is not part of this repository, so if you want to run this code you'll need to download the data yourself (see instructions in the notebook) 
 
+#### 7-us8k-rnn-extract-train.ipynb
+
+* this uses a Recurrent Neural Network to classify [Mel-frequency cepstral coefficients](https://en.wikipedia.org/wiki/Mel-frequency_cepstrum) (MFCC) features. 
+
 --- 
 
 Do get in touch if you've any questions, (me @ jaroncollis . com)
